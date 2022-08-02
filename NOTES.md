@@ -18,3 +18,6 @@ Los closures no son siempre utilizados.
 Un closure es cuando una función accede a una variable fuera de su contexto.
 
 Al trabajar con closures entra en juego el concepto de alcance de las variables.
+
+
+# contexto de ejecucion
